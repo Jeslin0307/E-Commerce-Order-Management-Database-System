@@ -8,9 +8,9 @@ The objective of Week 1 is to analyze the business requirements of an E-Commerce
 
 ## Documents Included
 
-- Requirement_Analysis_Report.docx
-- Business_Requirement_Document(BRD).docx
-- Software_Requirement_Specification_Document(SRS).docx
+- Requirement Analysis Report.docx
+- Business Requiremen Document(BRD).docx
+- Software Requirement Specification Document(SRS).docx
 
 ## Topics Covered
 
@@ -41,12 +41,4 @@ The objective of Week 1 is to analyze the business requirements of an E-Commerce
 - Analyze an E-Commerce business process.
 - Prepare professional software documentation.
 - Identify system requirements before database design.
-
-## Folder Structure
-
-Week1/
-├── Requirement_Analysis_Report.docx
-├── Business_Requirement_Document(BRD).docx
-├── Software_Requirement_Specification_Document(SRS).docx
-└── README.md
 
