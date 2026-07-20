@@ -8,8 +8,8 @@ The objective of Week 2 is to analyze the data requirements of the E-Commerce Or
 
 ## Documents Included
 
-- Entity_Analysis_Report.pdf
-- Entity_Relationship_Analysis.pdf
+- Entity Analysis Report.docx
+- Entity Relationship Analysis.docx
 
 ## Topics Covered
 
